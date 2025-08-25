@@ -1,4 +1,4 @@
-# 📝 Reddit Rule Violation Detection using BERT
+# 📝 LLM-based Reddit Rule Violation Detection
 
 This project implements a **binary text classification system** to predict whether a Reddit comment breaks a specific rule.  
 It was developed for the Kaggle competition, which challenges participants to model subreddit moderation decisions.  
